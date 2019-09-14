@@ -11,7 +11,12 @@
         font-size: 15px;
         color: gray;
     }
-
+     img {
+       max-width: 100%;
+       height: auto;  
+       display: block;
+     }
+    
     body {
         text-align: center;
         color:black; 
